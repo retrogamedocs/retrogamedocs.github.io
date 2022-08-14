@@ -1,8 +1,9 @@
 ---
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: Latest
+title: PC-98
+permalink: /pc-98/
 ---
+
 ![PC-98 game image](/assets/grounseed.jpg)
 
 {% for pc-98 in site.pc-98 %}
